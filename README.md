@@ -1,10 +1,10 @@
 ## README.md
 
-**Version:** 0.0.01
-**Status:** Active
-**Effective Date:** 2026-07-17
-**Maintained by:** Ethan (owner)
-**Location:** github.com/ethanrboyle
+**Version:** 0.0.01  
+**Status:** Active  
+**Effective Date:** 2026-07-17  
+**Maintained by:** Ethan (owner)  
+**Location:** github.com/ethanrboyle  
 
 ---
 
