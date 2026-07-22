@@ -12,7 +12,9 @@
 
 # Introduction
 
-Hi, and also, hello.
+Hi, and also, hello.  
+
+I am at the stage of learning GitHub in regards to best practices and or guidelines for content uploaded to repositories. If the way I said that sounds awkard, take that as an indication of where I'm at in the learning process, which is at the very beginning.
 
 # Terms and limitations
 
